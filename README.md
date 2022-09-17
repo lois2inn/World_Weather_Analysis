@@ -40,5 +40,7 @@ The head of a top travel technology company, which specializes in internet relat
 <img src="Vacation_Search/WeatherPy_vacation_map.png" width="500"/> 
 
 - To create vacation itinerary, four cities in USA were chosen: Red Bank, Virginia Beach, Oak Ridge and Hamilton with start and end location as Red Bank.
-Directions API was used to map the directions as shown below:
+<img src="Vacation_Itinerary/WeatherPy_travel_map_markers.png" width="800"/> 
+
+- Directions API was used to map the directions as shown below:
 <img src="Vacation_Itinerary/WeatherPy_travel_map.png" width="500"/> 
