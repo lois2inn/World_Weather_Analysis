@@ -36,8 +36,9 @@ The head of a top travel technology company, which specializes in internet relat
 - The citipy module identified 742 valid cities around the world for 2000 randomly generated latitude and longitude coordinates.
 - The OpenWeatherAPI retrieved weather details for 690 cities out of the 742 cities identified above.
 - For the preferred temperatures between 75F and 86F, there were 193 cities with valid hotel information. 
-- The destinations identified by Google Maps API for the above given temperature range were listed as in the image below:
+- Some of the destinations identified by Google Maps API for the above given temperature ranges were listed as in the image below:
 <img src="Vacation_Search/WeatherPy_vacation_map.png" width="500"/> 
+
 - To create vacation itinerary, four cities in USA were chosen: Red Bank, Virginia Beach, Oak Ridge and Hamilton with start and end location as Red Bank.
-Directions API was used to map the directions as below:
+Directions API was used to map the directions as shown below:
 <img src="Vacation_Itinerary/WeatherPy_travel_map.png" width="500"/> 
